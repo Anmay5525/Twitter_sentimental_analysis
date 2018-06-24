@@ -1,2 +1,2 @@
 # Twitter_sentimental_analysis
-Analysis of sentiment of recent tweets 
+Sentimental analysis of recent tweets containing a certain keyword.
